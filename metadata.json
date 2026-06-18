@@ -1,0 +1,6 @@
+{
+  "name": "Moon Light Cafe",
+  "description": "Seamless real-time digital ordering menu and counter order manager with statistics, status filters, and sound notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
